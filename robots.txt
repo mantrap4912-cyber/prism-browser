@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mantrap4912-cyber.github.io/prism-browser/sitemap.xml

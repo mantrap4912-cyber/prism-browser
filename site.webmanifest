@@ -1,0 +1,10 @@
+{
+  "name": "Prism Browser",
+  "short_name": "Prism",
+  "description": "A private, ad-blocking browser for Windows.",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#06070c",
+  "theme_color": "#06070c",
+  "icons": [{ "src": "prism-256.png", "sizes": "256x256", "type": "image/png", "purpose": "any" }]
+}
